@@ -8,5 +8,5 @@ This is WIP.
 
 ## Credits
 
-[zecoxao] (https://github.com/zecoxao): PUP Unpacker (https://github.com/zecoxao/ps5-pup-unpacker)
-[TheCod3rYouTube](https://github.com/TheCod3rYouTube): NOR Modifier (https://github.com/TheCod3rYouTube/PS5NorModifier)
+[zecoxao](https://github.com/zecoxao): PUP Unpacker(https://github.com/zecoxao/ps5-pup-unpacker)
+[TheCod3rYouTube](https://github.com/TheCod3rYouTube): NOR Modifier(https://github.com/TheCod3rYouTube/PS5NorModifier)
